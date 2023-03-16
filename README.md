@@ -33,9 +33,14 @@ I'm an undergraduate student passionate in creating new projects one step at a t
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bcytech&show_icons=true&theme=gruvbox)
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=bcytech&show_icons=true&theme=gruvbox" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcytech&layout=compact" />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bcytech&theme=gruvbox&border_radius=4.5) -->
+<!-- Draft
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bcytech&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=bcytech&theme=gruvbox&border_radius=4.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcytech&layout=compact)
+ -->
 
 #
 
