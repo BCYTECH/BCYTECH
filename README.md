@@ -1,7 +1,7 @@
 # About Me
 **` Bryson C.Y (Student)`**
 
-I'm an undergraduate student passionate in creating new projects one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm interested in web technologies and love to try new projects.
+I'm a recent Computer Science graduate passionate in creating new projects one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm interested in web technologies and love to try new projects.
 
  <p align="left">
        <a href="https://linkedin.com/in/bryson-cy">
